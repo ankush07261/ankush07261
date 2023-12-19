@@ -1,16 +1,27 @@
 # Ankush Hegde
 
-**`Software development | Cybersecurity`**
+**`Fullstack web development | Cybersecurity | App development`**
+<link rel="stylesheet" href="styles.css" type="text/css">
 <br/>
-<p>I am a Computer Science and Engineering student who is fascinated to build rensponsive softwares.</p>
+<p>I am a Computer Science and Engineering student who is fascinated to work on <b>Fullstack web development</b> and <b>Cybersecurity</b>. I am currently learning <b>App development.</b></p>
 
-<a href="https://ankushhegde-porfolio.netlify.app" target="_blank"></a>
+<a href="https://ankushhegde-porfolio.netlify.app" target="_blank" class="portfolio">My Portfolio Website</a>
 
 <h2>My Skills:</h2>
 <div>
-  
+  <img src="" alt="ReactJS" width="30px" heigth="30px" />
+  <img src="" alt="MongoDB" width="30px" heigth="30px" />
+  <img src="" alt="SQL" width="30px" heigth="30px" />
+  <img src="" alt="Bootstrap" width="30px" heigth="30px" />
+  <img src="" alt="CSS" width="30px" heigth="30px" />
+  <img src="" alt="javascript" width="30px" heigth="30px" />
+  <img src="" alt="EJS" width="30px" heigth="30px" />
+  <img src="" alt="HTML" width="30px" heigth="30px" />
+  <img src="" alt="nodejs" width="30px" heigth="30px" />
+  <img src="" alt="expressjs" width="30px" heigth="30px" />
+  <img src="" alt="nextjs" width="30px" heigth="30px" />
 </div>
-
+  
 <div>
   <h2>You may contact me on:</h2>
   <a href="mailto:ankushhegde30@gmail.com" target="_blank" width="30px" heigth="30px">
