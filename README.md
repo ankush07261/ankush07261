@@ -5,7 +5,7 @@
 <br/>
 <p>I am a Computer Science and Engineering student who is fascinated to work on <b>Fullstack web development</b> and <b>Cybersecurity</b>. I am currently learning <b>App development.</b></p>
 
-<a href="https://ankushhegde-porfolio.netlify.app" target="_blank" class="portfolio">My Portfolio Website</a>
+<a href="https://ankushhegde-portfolio.netlify.app" target="_blank" class="portfolio">My Portfolio Website</a>
 
 <h2>My Skills:</h2>
 <div>
