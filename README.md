@@ -1,4 +1,4 @@
-# Ankush Hegde
+#👨‍💻 Ankush Hegde
 
 **`Fullstack web development | Cybersecurity | App development`**
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -6,8 +6,8 @@
 <p>I am a Computer Science and Engineering student who is fascinated to work on <b>Fullstack web development</b> and <b>Cybersecurity</b>. I am currently learning <b>App development.</b></p>
 
 <a href="https://ankushhegde-portfolio.netlify.app" target="_blank" class="portfolio">Visit my Portfolio Website &#x21e8;</a>
-
-<h2>My Skills:</h2>
+<hr/>
+<h2>💻 My Skills / Tech stack:</h2>
 <div>
   <img src="https://imgs.search.brave.com/b5TpowQ1SVBzVPE9lVvGOdZToifqAs3O8QK4hrUWRn8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDkvUmVhY3Rf/bG9nb19sb2dvdHlw/ZV9lbWJsZW0tNzAw/eDYyNi5wbmc" alt="ReactJS" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/vYxn1yjzW8bpE11E_c-h-HKhHNm4dFwmFcpO_IasFh0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL2xvZ28tbW9u/Z29kYi1wbmctbW9u/Z29kYi1sb2dvLXBu/Zy00MDAucG5n" alt="MongoDB" width="30px" heigth="30px" />
@@ -22,10 +22,13 @@
   <img src="https://imgs.search.brave.com/JbHdV5OtqAIWazbWCKRJ8w3WfH_UC9ZUXAKQEx7zors/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL04vbmV4dC1q/cy1pY29uLWxvZ28t/RUUzMDJENURCRC1z/ZWVrbG9nby5jb20u/cG5n" alt="nextjs" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/f-29JuldNa_oeG6ChTFUSOUlC7ViIoBJ0YvsI6Ol54g/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy92aXN1YWwtc3R1/ZGlvLWNvZGUtbG9n/by5wbmc" alt="vscode" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/NqTFiGguTBXv-I84u6cf0MLkNB5hyu0glxO_aUXD4kI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3Zjk4MWNlZjEw/MTRjMGI1ZTQ4YmUu/cG5n" alt="git" width="30px" heigth="30px" />
+  <img src="https://imgs.search.brave.com/zAXgzHAToxKEMHD-HKXWO45vMq7c5hwLGr8I1kO-ZKU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9ubWFwLWlj/b24tMjA0OHgyMDQ4/LTk2amRiZjZyLnBu/Zw" alt="nmap" width="30px" heigth="30px" />
+  <img src="https://imgs.search.brave.com/QFLvifmSgK3AZnv_6WhL_WwyvpCGWtNr9AivegE3eOo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RiL1dpcmVzaGFy/a19JY29uLnBuZw" alt="wireshark" width="30px" heigth="30px" />
+  <img src="https://imgs.search.brave.com/e9fvSwABykzpw-SPtSgM1q9ceChL2a-htnu4-3e8DzA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9lY3Mt/bmV0d29yay5zZXJ2/LnBhY2lmaWMuZWR1/L2VjcGUtMTcwL2xp/bnV4LWxvZ28vaW1h/Z2U" alt="linux" width="20px" heigth="30px" />
 </div>
-  
+  <hr/>
 <div>
-  <h2>You may contact me on:</h2>
+  <h2>🌐 You may contact me on:</h2>
   <a href="mailto:ankushhegde30@gmail.com" target="_blank" width="30px" heigth="30px">
     <img src="https://imgs.search.brave.com/dLqu2xvelspkK0CEBNYAQMKGyyvnnIjFmpeLA-5frK4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NzkwNjI3/NGxvZ28tZ21haWwt/cG5nLnBuZw" alt="mail" width="30px" heigth="30px"/>
   </a>
@@ -34,5 +37,6 @@
   </a>
   <a href="https://www.instagram.com/ankush_hegde____/" target="_blank" width="30px" heigth="30px">
     <img src="https://imgs.search.brave.com/cjmPSCU-BU4q8Xd6oQwTUTo5hBrkOrFqFe1Q2qVCO7E/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE3/LzA0L2luc3RhZ3Jh/bS1sb2dvLnBuZw" alt="instagram" width="30px" heigth="30px"/>
+    
   </a>
 </div>
