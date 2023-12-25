@@ -1,4 +1,4 @@
-#👨‍💻 Ankush Hegde
+<h1>👨‍💻 Ankush Hegde</h1>
 
 **`Fullstack web development | Cybersecurity | App development`**
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -25,6 +25,7 @@
   <img src="https://imgs.search.brave.com/zAXgzHAToxKEMHD-HKXWO45vMq7c5hwLGr8I1kO-ZKU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9ubWFwLWlj/b24tMjA0OHgyMDQ4/LTk2amRiZjZyLnBu/Zw" alt="nmap" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/QFLvifmSgK3AZnv_6WhL_WwyvpCGWtNr9AivegE3eOo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RiL1dpcmVzaGFy/a19JY29uLnBuZw" alt="wireshark" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/e9fvSwABykzpw-SPtSgM1q9ceChL2a-htnu4-3e8DzA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9lY3Mt/bmV0d29yay5zZXJ2/LnBhY2lmaWMuZWR1/L2VjcGUtMTcwL2xp/bnV4LWxvZ28vaW1h/Z2U" alt="linux" width="20px" heigth="30px" />
+  <img src="https://imgs.search.brave.com/Qj0q-zgmZyBcJAvYj9GNuhHuUh-xWWvcgi83FKRXy98/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/Lzg3NTExMi5wbmc" alt="apis" width="40px" heigth="30px" />
 </div>
   <hr/>
 <div>
