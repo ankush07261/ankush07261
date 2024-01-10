@@ -1,6 +1,6 @@
 <h1>👨‍💻 Ankush Hegde</h1>
 
-**`Fullstack web development | Cybersecurity | App development`**
+**`Fullstack web development | Cybersecurity`**
 <link rel="stylesheet" href="styles.css" type="text/css">
 <br/>
 <p>I am a Computer Science and Engineering student who is fascinated to work on <b>Fullstack web development</b> and <b>Cybersecurity</b>. I am currently learning <b>App development.</b></p>
