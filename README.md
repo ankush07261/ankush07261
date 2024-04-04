@@ -3,7 +3,7 @@
 **`Fullstack web development | Cybersecurity`**
 <link rel="stylesheet" href="styles.css" type="text/css">
 <br/>
-<p>I am a Computer Science and Engineering student who is fascinated to work on <b>Fullstack web development</b> and <b>Cybersecurity</b>. I am currently learning <b>App development.</b></p>
+<p>I am a Computer Science and Engineering student who is fascinated to work on <b>Fullstack web development</b> and <b>Cybersecurity</b>.</p>
 
 <a href="https://ankushhegde-portfolio.netlify.app" target="_blank" class="portfolio">Visit my Portfolio Website &#x21e8;</a>
 <hr/>
