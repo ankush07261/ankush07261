@@ -1,13 +1,19 @@
-<h1>👨‍💻 Ankush Hegde</h1>
+<h1>Hello!👋🏻 I'm Ankush Hegde</h1>
 
 **`Fullstack web development | Cybersecurity`**
 <link rel="stylesheet" href="styles.css" type="text/css">
 <br/>
-<p>I am a Computer Science and Engineering student who is fascinated to work on <b>Fullstack web development</b> and <b>Cybersecurity</b>.</p>
+<p>I am a Computer Science and Engineering student who is fascinated to work on <b>Fullstack web development</b> and <b>Cybersecurity</b>. I build responsive websites with user friendly UI and good coding practices.</p>
 
 <a href="https://ankushhegde-portfolio.netlify.app" target="_blank" class="portfolio">Visit my Portfolio Website &#x21e8;</a>
 <hr/>
-<h2>💻 My Skills / Tech stack:</h2>
+<h3>👨🏻‍💻 What you will find on my github:</h3>
+<ul>
+  <li>Projects centered around front-end and fullstack web development using M.E.R.N and EJS</li>
+  <li>A few repos related to my academics such as mini projects or lab programs.</li>
+</ul>
+<hr/>
+<h3>💻 My Skills / Tech stack:</h3>
 <div>
   <img src="https://imgs.search.brave.com/b5TpowQ1SVBzVPE9lVvGOdZToifqAs3O8QK4hrUWRn8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDkvUmVhY3Rf/bG9nb19sb2dvdHlw/ZV9lbWJsZW0tNzAw/eDYyNi5wbmc" alt="ReactJS" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/3rj25Xl06PRPIW9ad1JLJUnL6eCHGDExRr3Qzldfygo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/dGMtd2ViLml0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE5LzEy/L1R5cGVTY3JpcHQt/bG9nby5wbmc" alt="TypeScript" width="30px" heigth="30px" />
@@ -31,7 +37,7 @@
 </div>
   <hr/>
 <div>
-  <h2>🌐 You may contact me on:</h2>
+  <h3>🌐 You may contact me on:</h3>
   <a href="mailto:ankushhegde30@gmail.com" target="_blank" width="30px" heigth="30px">
     <img src="https://imgs.search.brave.com/dLqu2xvelspkK0CEBNYAQMKGyyvnnIjFmpeLA-5frK4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NzkwNjI3/NGxvZ28tZ21haWwt/cG5nLnBuZw" alt="mail" width="30px" heigth="30px"/>
   </a>
