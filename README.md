@@ -11,10 +11,12 @@
 <ul>
   <li>Projects centered around front-end and fullstack web development using M.E.R.N and EJS</li>
   <li>A few repos related to my academics such as mini projects or lab programs.</li>
+  <li>Some Cybersecurity projects too.</li>
 </ul>
 <hr/>
 <h3>💻 My Skills / Tech stack:</h3>
 <div>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" alt="C++" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/b5TpowQ1SVBzVPE9lVvGOdZToifqAs3O8QK4hrUWRn8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDkvUmVhY3Rf/bG9nb19sb2dvdHlw/ZV9lbWJsZW0tNzAw/eDYyNi5wbmc" alt="ReactJS" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/3rj25Xl06PRPIW9ad1JLJUnL6eCHGDExRr3Qzldfygo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/dGMtd2ViLml0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE5LzEy/L1R5cGVTY3JpcHQt/bG9nby5wbmc" alt="TypeScript" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/vYxn1yjzW8bpE11E_c-h-HKhHNm4dFwmFcpO_IasFh0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL2xvZ28tbW9u/Z29kYi1wbmctbW9u/Z29kYi1sb2dvLXBu/Zy00MDAucG5n" alt="MongoDB" width="30px" heigth="30px" />
