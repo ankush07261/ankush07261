@@ -9,7 +9,8 @@
 <hr/>
 <h3>👨🏻‍💻 What you will find on my github:</h3>
 <ul>
-  <li>Projects centered around front-end and fullstack web development using M.E.R.N and EJS</li>
+  <li>Some C++ & Java projects.</li>
+  <li>Projects centered around front-end and fullstack web development using M.E.R.N and EJS.</li>
   <li>A few repos related to my academics such as mini projects or lab programs.</li>
   <li>Some Cybersecurity projects too.</li>
 </ul>
