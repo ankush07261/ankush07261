@@ -1,6 +1,6 @@
 <h1>Hello!👋🏻 I'm Ankush Hegde</h1>
 
-**`C++ | Cybersecurity | Fullstack web development`**
+**`C++ | Java | Cybersecurity | Fullstack web development`**
 <link rel="stylesheet" href="styles.css" type="text/css">
 <!-- <br/> -->
 <p>I am a Computer Science and Engineering student who is fascinated to work on <b>Cybersecurity</b> and <b>Fullstack web development</b>. I build responsive websites with user friendly UI and good coding practices.</p>
@@ -17,6 +17,7 @@
 <h3>💻 My Skills / Tech stack:</h3>
 <div>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" alt="C++" width="30px" heigth="30px" />
+  <img src="https://logowik.com/java-vector-logo-1028.html" alt="Java" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/zTbAk9TU3ba6U5tisLjT81BXVfhPIP8tjSIMYENVS9s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMTAvUHl0aG9u/X2xvZ29faWNvbi03/MDB4Njk3LnBuZw" alt="Python" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/b5TpowQ1SVBzVPE9lVvGOdZToifqAs3O8QK4hrUWRn8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDkvUmVhY3Rf/bG9nb19sb2dvdHlw/ZV9lbWJsZW0tNzAw/eDYyNi5wbmc" alt="ReactJS" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/3rj25Xl06PRPIW9ad1JLJUnL6eCHGDExRr3Qzldfygo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/dGMtd2ViLml0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE5LzEy/L1R5cGVTY3JpcHQt/bG9nby5wbmc" alt="TypeScript" width="30px" heigth="30px" />
@@ -36,7 +37,8 @@
   <img src="https://imgs.search.brave.com/NqTFiGguTBXv-I84u6cf0MLkNB5hyu0glxO_aUXD4kI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3Zjk4MWNlZjEw/MTRjMGI1ZTQ4YmUu/cG5n" alt="git" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/zAXgzHAToxKEMHD-HKXWO45vMq7c5hwLGr8I1kO-ZKU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9ubWFwLWlj/b24tMjA0OHgyMDQ4/LTk2amRiZjZyLnBu/Zw" alt="nmap" width="30px" heigth="30px" />
   <img src="https://imgs.search.brave.com/QFLvifmSgK3AZnv_6WhL_WwyvpCGWtNr9AivegE3eOo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2RiL1dpcmVzaGFy/a19JY29uLnBuZw" alt="wireshark" width="30px" heigth="30px" />
-  <img src="https://imgs.search.brave.com/e9fvSwABykzpw-SPtSgM1q9ceChL2a-htnu4-3e8DzA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9lY3Mt/bmV0d29yay5zZXJ2/LnBhY2lmaWMuZWR1/L2VjcGUtMTcwL2xp/bnV4LWxvZ28vaW1h/Z2U" alt="linux" width="20px" heigth="30px" />
+  <img src="https://en.wikipedia.org/wiki/File:Tux.svg" alt="linux" width="20px" heigth="30px" />
+  <img src="https://iconduck.com/icons/312902/distributor-logo-kali" alt="kali linux" width="20px" heigth="30px" />
   <img src="https://imgs.search.brave.com/Qj0q-zgmZyBcJAvYj9GNuhHuUh-xWWvcgi83FKRXy98/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/Lzg3NTExMi5wbmc" alt="apis" width="40px" heigth="30px" />
 </div>
   <hr/>
