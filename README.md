@@ -1,16 +1,20 @@
 <h1>Hello!👋🏻 I'm Ankush Hegde</h1>
 
-**`C++ | Java | Cybersecurity | Fullstack web development`**
+**`C++ | Java | Fullstack web development | AI/ML | Cybersecurity`**
 <link rel="stylesheet" href="styles.css" type="text/css">
 <!-- <br/> -->
-<p>I am a Computer Science and Engineering student who is fascinated to work on <b>Cybersecurity</b> and <b>Fullstack web development</b>. I build responsive websites with user friendly UI and good coding practices.</p>
+<p>
+  I'm a Computer Science Engineer passionate about building impactful solutions through <b>Software Development</b>, with a growing edge in <b>AI/ML</b> and an eye for <b>Cybersecurity</b>.
+  I create responsive, user-friendly fullstack applications backed by clean code, secure practices, and a mindset that blends functionality with innovation.
+</p>
 
 <a href="https://ankushhegde-portfolio.netlify.app" target="_blank" class="portfolio">Visit my Portfolio Website &#x21e8;</a>
 <hr/>
 <h3>👨🏻‍💻 What you will find on my github:</h3>
 <ul>
   <li>Some C++ & Java projects.</li>
-  <li>Projects centered around front-end and fullstack web development using M.E.R.N and EJS.</li>
+  <li>Projects involving Machine Learning and Data Analysis.</li>
+  <li>Projects centered around front-end and fullstack development.</li>
   <li>A few repos related to my academics such as mini projects or lab programs.</li>
   <li>Some Cybersecurity projects too.</li>
 </ul>
