@@ -1,6 +1,6 @@
 <h1>Hello!👋🏻 I'm Ankush Hegde</h1>
 
-**`C++ | Java | Fullstack web development | AI/ML | Cybersecurity`**
+**`C++ | Java | AI/ML | Cybersecurity | Fullstack web development`**
 <link rel="stylesheet" href="styles.css" type="text/css">
 <!-- <br/> -->
 <p>
@@ -13,7 +13,7 @@
 <h3>👨🏻‍💻 What you will find on my github:</h3>
 <ul>
   <li>Some C++ & Java projects.</li>
-  <li>Projects involving Machine Learning and Data Analysis.</li>
+  <li>Projects involving Machine Learning, and Data Analysis.</li>
   <li>Projects centered around front-end and fullstack development.</li>
   <li>A few repos related to my academics such as mini projects or lab programs.</li>
   <li>Some Cybersecurity projects too.</li>
