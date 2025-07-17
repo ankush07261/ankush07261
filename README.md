@@ -54,7 +54,7 @@
 <div>
   <h3>🌐 You may contact me on:</h3>
   <a href="mailto:ankushhegde30@gmail.com" target="_blank" width="30px" heigth="30px">
-    <img src="https://imgs.search.brave.com/dLqu2xvelspkK0CEBNYAQMKGyyvnnIjFmpeLA-5frK4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NzkwNjI3/NGxvZ28tZ21haWwt/cG5nLnBuZw" alt="mail" width="30px" heigth="30px"/>
+    <img src="https://imgs.search.brave.com/Bnb4HfR5pPTgjOPDZPQW5ASq1q5FjaAOBpjVldgw_7g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMjIv/NDg0LzUwOC9zbWFs/bC9nb29nbGUtbWFp/bC1nbWFpbC1pY29u/LWxvZ28tc3ltYm9s/LWZyZWUtcG5nLnBu/Zw" alt="mail" width="30px" heigth="30px"/>
   </a>
   <a href="https://www.linkedin.com/in/ankush-hegde-9144b3194/" target="_blank" width="30px" heigth="30px">
     <img src="https://imgs.search.brave.com/0onedxgdJWLsAOrzVTbco23TxXLuDJGb_uBUL74bc7k/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n" alt="linkedin" width="30px" heigth="30px"/>
