@@ -23,15 +23,15 @@ I create responsive, user-friendly fullstack applications backed by clean code, 
 <div>  
   
   - **Core**:  
-  ![Data Structures & Algorithms](https://img.shields.io/badge/-Data_Structures_and_Algorithms-black?style=flat-square&logo=dsa)
-  ![System Design & Architecture](https://img.shields.io/badge/-System_Design_&_Architecture-black?style=flat-square&logo=sda)
-  ![Object Oriented Programming](https://img.shields.io/badge/-Object_Oriented_Programming-black?style=flat-square&logo=oop)
+  ![Data Structures & Algorithms](https://img.shields.io/badge/-Data_Structures_and_Algorithms-black?style=flat-square&logo=grapheneos)
+  ![System Design & Architecture](https://img.shields.io/badge/-System_Design_&_Architecture-black?style=flat-square&logo=dwavesystems)
+  ![Object Oriented Programming](https://img.shields.io/badge/-Object_Oriented_Programming-black?style=flat-square&logo=square)
   
   - **Languages & Frameworks**:  
   ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
   ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-  ![CSS](https://img.shields.io/badge/-Css-black?style=flat-square&logo=css3)
+  ![CSS](https://img.shields.io/badge/-Css-black?style=flat-square&logo=css)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
   ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next)
@@ -60,7 +60,7 @@ I create responsive, user-friendly fullstack applications backed by clean code, 
 </div>
   <hr/>
 <div>
-  <h3>🌐 You may contact me on:</h3>
+  <h3>🌐 You may connect with me on:</h3>
   <a href="mailto:ankushhegde30@gmail.com" target="_blank" width="30px" heigth="30px">
     <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="mail" width="40px" heigth="30px"/>
   </a>
